@@ -9,3 +9,8 @@ $ curl http://abc.xyz/
  "User-Agent": "curl/7.61.1",
  "Accept": "*/*"
 }
+
+
+
+Run bằng cách truy cập đến web:
+http://192.168.1.196:5000/json
