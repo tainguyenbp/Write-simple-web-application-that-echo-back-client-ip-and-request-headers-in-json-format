@@ -6,7 +6,7 @@ $ curl http://abc.xyz/
 
 {
 
- "Client IP": "192.168.1.10",
+ "Client IP": "192.168.1.179",
 
  "Host": "abc.xyz",
 
@@ -16,8 +16,13 @@ $ curl http://abc.xyz/
 
 }
 
+Cài đặt python3.6 trên centos7:
+
+https://github.com/tainguyenbp/how-to-setup-python3.6-with-tools-ansible
+
+Run web application with python:
+python3.6 simple_web_application.py
+
 Run bằng cách truy cập đến web:
 http://192.168.1.196:5000/json
 
-Cài đặt python3.6 trên centos7
-https://github.com/tainguyenbp/how-to-setup-python3.6-with-tools-ansible
