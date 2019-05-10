@@ -20,7 +20,8 @@ Cài đặt python3.6 trên centos7:
 
 https://github.com/tainguyenbp/how-to-setup-python3.6-with-tools-ansible
 
-Run web application with python:
+Run web application python with command:
+
 python3.6 simple_web_application.py
 
 Run bằng cách truy cập đến web:
